@@ -4,5 +4,6 @@ let topicName = "Matromorphosis"
 let trainerName = "Sudha"
 let duration = "3 hours"
 console.log(sessionName)
+console.log(topicName)
 
 
